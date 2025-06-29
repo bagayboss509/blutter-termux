@@ -16,7 +16,7 @@
 
 ## Installation Commands ( Redirect [![Github](https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github)](https://github.com/dedshit/blutter-termux) )
 ```python
-curl -s https://raw.githubusercontent.com/TechnoIndian/Blutter-in-Termux/main/Blutter-in-Termux.sh | bash
+curl -s https://raw.githubusercontent.com/bagayboss509/blutter-termux/Blutter-in-Termux/main/Blutter-in-Termux.sh | bash
 ```
 
 ## Run B(l)utter
